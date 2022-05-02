@@ -6,6 +6,6 @@ import org.junit.*;
 public class skilldemotester {
     @Test
     public void Test1(){
-        assertEquals(2, skilldemo.Subtrack(4, 2));
+        assertEquals(2, skilldemo.Subtrack(2, 4));
     }
 }
